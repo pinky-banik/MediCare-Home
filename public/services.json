@@ -1,0 +1,74 @@
+[
+  {
+    "key": 1,
+    "img": "https://intermountainhealthcare.org/-/media/images/global/1-1/male-patient-looking-out-window-wheelchair.jpg?la=en&h=450&w=450&mw=450&hash=4A0261567415CF99C536EF9864D4490FDEE25F39",
+    "title": "Neurosciences",
+    "desc": "Our team of experts at Medicare Home provides comprehensive brain, spine, and neurological care. We combine clinical excellence with research, education, and advocacy. We know that no treatment is one-size-fits-all, so we work with you as a part of our team to understand your condition.",
+    "rating": 4.9,
+    "ratingCount": "821"
+  },
+  {
+    "key": 2,
+    "img": "https://intermountainhealthcare.org/-/media/images/global/1-1/woman-cancer-holding-son.jpg?la=en&h=450&w=450&mw=450&hash=7C35DD97D16B8A2863BDED859441F38878581A7B",
+    "title": "Cancer Care",
+    "desc": "Through our comprehensive team approach, advanced technology, and individualized cancer care, we are committed to helping our patients get well, live well, and stay well. It is through these efforts Medicare Home’s cancer care and outcomes consistently outperform the national average.",
+    "rating": 4.5,
+    "ratingCount": "784"
+  },
+  {
+    "key": 3,
+    "img": "https://intermountainhealthcare.org/-/media/images/global/1-1/doctor-checking-heartbeat.jpg?la=en&h=450&w=450&mw=450&hash=53DE0B8D7D271AC55924BA73099B9ABEFA129050",
+    "title": "Heart Care",
+    "desc": "Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery. We use minimally invasive and robotic surgery techniques, including robotic heart valve surgery and surgery for cardiac arrhythmias.",
+    "rating": 5,
+    "ratingCount": "695"
+  },
+  {
+    "key": 4,
+    "img": "https://intermountainhealthcare.org/-/media/images/global/1-1/boy-in-hospital-bed-smiling.jpg?la=en&h=450&w=450&mw=450&hash=C550ED89431936949DFC5B4C4FED9490A351DADB",
+    "title": "Pediatrics",
+    "desc": "We offer convenient pediatric care at a wide variety of locations, bringing you quality care close to home. We partner with families to deliver expert, compassionate care to infants, children and teens. When it comes to your child’s health, experience matters.",
+    "rating": 4.7,
+    "ratingCount": "640"
+  },
+  {
+    "key": 5,
+    "img": "https://intermountainhealthcare.org/-/media/images/enterprisesections/all-service-line-images/aortic-dissection.jpg?la=en&h=450&w=450&mw=450&hash=785F58104FA9F812E587682E2B1634546A2ED1DA",
+    "title": "Surgical Services",
+    "desc": "Medicare Home's world-renowned surgeons and surgical services teams are committed to helping you. We understand that surgery is a significant decision, and our highly-trained physicians carefully consider each case to ensure that our patients receive only the procedures to stay well.",
+    "rating": 4.8,
+    "ratingCount": "968"
+  },
+  {
+    "key": 6,
+    "img": "https://intermountainhealthcare.org/-/media/images/enterprisesections/all-service-line-images/anemia.jpg?la=en&h=300&w=300&mw=450&hash=86038234AFCE079BF83CFC435195D388DEE3C6BA",
+    "title": "Women's Health",
+    "desc": "No two women are exactly the same. Each is unique and deserves the kind of individual care and attention received at our Medicare Home. Here, we care for women’s needs through all stages of life from childbirth to menopause and beyond, and we do it with the individual woman in mind.",
+    "rating": 4.7,
+    "ratingCount": "240"
+  },
+  {
+    "key": 7,
+    "img": "https://intermountainhealthcare.org/-/media/images/global/1-1/beck-neck-and-spine-doctor-holding-neck.jpg?la=en&h=450&w=450&mw=450&hash=110062BFBB88F6386B9C02E3F3F44D12C95D0FAE",
+    "title": "Spine",
+    "desc": "At Medicare Home, our world class providers offer comprehensive spine services with a compassionate touch while ensuring that patients are key decision-makers in their care plans. The Centers perform the full range of spinal procedures from Minimally Invasive Spine Surgery (MISS).",
+    "rating": 4.5,
+    "ratingCount": "545"
+  },
+  {
+    "key": 8,
+    "img": "https://intermountainhealthcare.org/-/media/images/global/1-1/urologist-consulting-patient.jpg?la=en&h=450&w=450&mw=450&hash=3B05410560CA819022E52218B13F536E52DC6669",
+    "title": "Urology",
+    "desc": "When you have urologic concerns that require a specialist, we offer personalized care for all disorders associated with adult male and female urinary tract, and the male reproductive system. We also specialize in the treatment of prostate, kidney, testicular and adrenal cancers.",
+    "rating": 4.2,
+    "ratingCount": "318"
+  },
+  {
+    "key": 9,
+    "img": "https://intermountainhealthcare.org/-/media/images/enterpriseserviceslines/heartcare/echocardiogram.jpg?la=en&h=450&w=450&mw=450&hash=1C5EC5A4A829BF27C5A414C027E0A979F500469B",
+    "title": "Gastroenterology",
+    "desc": "Medicare Home offers expert care in Gastroenterology. We possess modern equipment backed by advanced intensive care units. The Gastrointestinal surgeons manage major treatments related to gastrointestinal surgical problems of the intestines, pancreas and hepatobiliary tract.",
+    "rating": 4.2,
+    "ratingCount": "487"
+  }
+]
